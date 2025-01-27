@@ -32,8 +32,8 @@ LDAP organiza los datos en una estructura de árbol, conocida como Árbol de Inf
 ```
 DC=empresa, DC=com
 └── OU=Usuarios
-    ├── CN=Juan Pérez
-    └── CN=Ana Gómez
+    ├── CN=Rarity
+    └── CN=Opal
 ```
 
 En este ejemplo:
