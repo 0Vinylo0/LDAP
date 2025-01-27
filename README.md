@@ -4,6 +4,8 @@
 
 ## Tabla de Contenidos
 
+<img src="/img/OpenLDAP.png" alt="GIF" width="300" height="300" align="right">
+
 1. [`Introducción a LDAP`](/doc/introduccion.md)
 2. [`Instalación de LDAP`](/doc/instalacion.md)
 3. [`Conceptos Básicos de Configuración de LDAP`](/doc/configuracion.md)
