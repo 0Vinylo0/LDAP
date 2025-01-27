@@ -50,7 +50,7 @@ Cada entrada en LDAP tiene un conjunto de atributos. Por ejemplo, un usuario pue
 
 ### DN: Nombre Distinguido
 El Nombre Distinguido (DN) es un identificador único que especifica la ubicación exacta de una entrada dentro del árbol LDAP. Por ejemplo:
-`CN=Juan Pérez, OU=Usuarios, DC=empresa, DC=com`
+`CN=Rarity, OU=Usuarios, DC=empresa, DC=com`
 
 ### Esquema LDAP
 El esquema de LDAP define las reglas y formatos para las entradas y atributos en el directorio. Esto incluye:
