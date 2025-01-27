@@ -7,9 +7,10 @@
 1. [`Introducción a LDAP`](/doc/introduccion.md)
 2. [`Instalación de LDAP`](/doc/instalacion.md)
 3. [`Conceptos Básicos de Configuración de LDAP`](/doc/configuracion.md)
-4. [`Comandos Comunes de LDAP`](/doc/comandos.md)
-5. [`Casos de Uso y Mejores Prácticas`](/doc/casos_de_uso.md)
-6. [`Estructura del Árbol LDAP`](/doc/arbol_ldap.md)
+4. [`Configuracion avanzada`](/doc/configuracion_avanzada.md)
+5. [`Comandos Comunes de LDAP`](/doc/comandos.md)
+6. [`Casos de Uso y Mejores Prácticas`](/doc/casos_de_uso.md)
+7. [`Estructura del Árbol LDAP`](/doc/arbol_ldap.md)
 
 ---
 
