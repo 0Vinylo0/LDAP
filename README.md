@@ -38,3 +38,6 @@ LDAP organiza los datos en una estructura de directorio. Cada entrada está iden
 ### Próximos Pasos
 
 Comienza leyendo la [`Introducción a LDAP`](/doc/introduccion.md) para entender sus conceptos fundamentales. Luego, procede a la [`Guía de Instalación`](/doc/instalacion.md) para configurar un servidor LDAP en tu sistema. También puedes explorar la [`Estructura del Árbol LDAP`](/doc/arbol_ldap.md) para comprender cómo se organiza y gestiona la información dentro de LDAP.
+
+## Referencias
+- [`OpenLDAP`](https://www.openldap.org/doc/)
