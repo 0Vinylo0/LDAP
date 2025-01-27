@@ -13,6 +13,7 @@
 5. [`Comandos Comunes de LDAP`](/doc/comandos.md)
 6. [`Casos de Uso y Mejores Prácticas`](/doc/casos_de_uso.md)
 7. [`Estructura del Árbol LDAP`](/doc/arbol_ldap.md)
+8. [`AutoInstall Ejecutar con sh`](ldapconf.sh)
 
 ---
 
